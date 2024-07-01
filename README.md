@@ -1,3 +1,5 @@
+![Banner Image](https://raw.githubusercontent.com/shRahat10/shRahat10/main/GitHub%20Banner.png)
+
 # 💫 About Me:
 🎓 Final year Computer Science student at East West University, Dhaka, Bangladesh<br>💻 Proficient in the MERN stack (MongoDB, Express.js, React, Node.js)<br>🌱 Actively learning new web development languages and technologies<br>🚀 Passionate about building innovative web applications<br>🔍 Seeking job opportunities to apply and expand my skills<br>🤝 Excited to connect with professionals and explore new possibilities in the tech community
 
