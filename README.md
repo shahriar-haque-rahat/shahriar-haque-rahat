@@ -1,4 +1,4 @@
-![Banner Image](https://raw.githubusercontent.com/shRahat10/shRahat10/main/GitHub%20Banner.png)
+![Banner Image](https://github.com/shahriar-haque-rahat/shahriar-haque-rahat/blob/main/githubcover.png)
 
 # 💫 About Me:
 🎓 Computer Science graduate from East West University, Dhaka, Bangladesh<br>💻 Focused on Software Engineering with experience building full-stack web applications<br>🧠 Passionate about writing clean, maintainable, and scalable code<br>🌱 Continuously learning system design, software architecture, and modern development practices<br>🚀 Interested in building reliable software that solves real-world problems<br>🔍 Currently seeking Software Engineer opportunities to contribute and grow<br>🤝 Open to connecting with professionals and exploring opportunities in the tech community
